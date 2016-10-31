@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\FactorialTDD\FactorialTDD\bin\Debug\FactorialTDD.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\FactorialTDD\FactorialTDD\bin\Debug\FactorialTDD.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\FactorialTDD\FactorialTDD\bin\Debug\FactorialTDD.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\FactorialTDD\FactorialTDD\obj\Debug\FactorialTDD.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\FactorialTDD\FactorialTDD\obj\Debug\FactorialTDD.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\FactorialTDD\FactorialTDD\obj\Debug\FactorialTDD.pdb

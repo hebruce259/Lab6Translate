@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\ForLoopSum\ForLoopSum\bin\Debug\ForLoopSum.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\ForLoopSum\ForLoopSum\bin\Debug\ForLoopSum.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\ForLoopSum\ForLoopSum\bin\Debug\ForLoopSum.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\ForLoopSum\ForLoopSum\obj\Debug\ForLoopSum.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\ForLoopSum\ForLoopSum\obj\Debug\ForLoopSum.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\ForLoopSum\ForLoopSum\obj\Debug\ForLoopSum.csprojResolveAssemblyReference.cache

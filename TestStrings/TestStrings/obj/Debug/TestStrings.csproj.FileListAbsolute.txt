@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\TestStrings\TestStrings\bin\Debug\TestStrings.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\TestStrings\TestStrings\bin\Debug\TestStrings.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\TestStrings\TestStrings\bin\Debug\TestStrings.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\TestStrings\TestStrings\obj\Debug\TestStrings.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\TestStrings\TestStrings\obj\Debug\TestStrings.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\TestStrings\TestStrings\obj\Debug\TestStrings.pdb

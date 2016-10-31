@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab1CalcAreaPerimeter\Lab1CalcAreaPerimeter\bin\Debug\Lab1CalcAreaPerimeter.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab1CalcAreaPerimeter\Lab1CalcAreaPerimeter\bin\Debug\Lab1CalcAreaPerimeter.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab1CalcAreaPerimeter\Lab1CalcAreaPerimeter\bin\Debug\Lab1CalcAreaPerimeter.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab1CalcAreaPerimeter\Lab1CalcAreaPerimeter\obj\Debug\Lab1CalcAreaPerimeter.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab1CalcAreaPerimeter\Lab1CalcAreaPerimeter\obj\Debug\Lab1CalcAreaPerimeter.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab1CalcAreaPerimeter\Lab1CalcAreaPerimeter\obj\Debug\Lab1CalcAreaPerimeter.pdb

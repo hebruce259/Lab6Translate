@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeDoWhile\PracticeDoWhile\bin\Debug\PracticeDoWhile.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeDoWhile\PracticeDoWhile\bin\Debug\PracticeDoWhile.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeDoWhile\PracticeDoWhile\bin\Debug\PracticeDoWhile.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeDoWhile\PracticeDoWhile\obj\Debug\PracticeDoWhile.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeDoWhile\PracticeDoWhile\obj\Debug\PracticeDoWhile.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeDoWhile\PracticeDoWhile\obj\Debug\PracticeDoWhile.pdb

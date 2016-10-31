@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab6TranslateToEnglish\Lab6TranslateToEnglish\bin\Debug\Lab6TranslateToEnglish.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab6TranslateToEnglish\Lab6TranslateToEnglish\bin\Debug\Lab6TranslateToEnglish.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab6TranslateToEnglish\Lab6TranslateToEnglish\bin\Debug\Lab6TranslateToEnglish.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab6TranslateToEnglish\Lab6TranslateToEnglish\obj\Debug\Lab6TranslateToEnglish.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab6TranslateToEnglish\Lab6TranslateToEnglish\obj\Debug\Lab6TranslateToEnglish.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab6TranslateToEnglish\Lab6TranslateToEnglish\obj\Debug\Lab6TranslateToEnglish.pdb

@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Method\Method\bin\Debug\Method.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Method\Method\bin\Debug\Method.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Method\Method\bin\Debug\Method.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Method\Method\obj\Debug\Method.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\Method\Method\obj\Debug\Method.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Method\Method\obj\Debug\Method.pdb

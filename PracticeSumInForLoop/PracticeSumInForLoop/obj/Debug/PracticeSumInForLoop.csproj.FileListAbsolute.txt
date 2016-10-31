@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeSumInForLoop\PracticeSumInForLoop\bin\Debug\PracticeSumInForLoop.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeSumInForLoop\PracticeSumInForLoop\bin\Debug\PracticeSumInForLoop.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeSumInForLoop\PracticeSumInForLoop\bin\Debug\PracticeSumInForLoop.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeSumInForLoop\PracticeSumInForLoop\obj\Debug\PracticeSumInForLoop.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeSumInForLoop\PracticeSumInForLoop\obj\Debug\PracticeSumInForLoop.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\PracticeSumInForLoop\PracticeSumInForLoop\obj\Debug\PracticeSumInForLoop.pdb

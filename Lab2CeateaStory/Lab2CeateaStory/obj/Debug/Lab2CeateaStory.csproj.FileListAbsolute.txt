@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2CeateaStory\Lab2CeateaStory\bin\Debug\Lab2CeateaStory.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2CeateaStory\Lab2CeateaStory\bin\Debug\Lab2CeateaStory.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2CeateaStory\Lab2CeateaStory\bin\Debug\Lab2CeateaStory.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2CeateaStory\Lab2CeateaStory\obj\Debug\Lab2CeateaStory.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2CeateaStory\Lab2CeateaStory\obj\Debug\Lab2CeateaStory.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Lab2CeateaStory\Lab2CeateaStory\obj\Debug\Lab2CeateaStory.pdb
