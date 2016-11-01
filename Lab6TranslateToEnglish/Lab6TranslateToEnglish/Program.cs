@@ -28,6 +28,12 @@ namespace Lab6TranslateToEnglish
             {
                 Console.WriteLine(lowerCaseWord + "way");
             }
+            else if (lowerCaseWord == " ")
+            {
+                Console.WriteLine("You must enter a word. ");
+
+            }
+
             else
             //It's a Consonant chop the beginning letter off and move to the back adding "ay" to the ending.
             {
@@ -37,6 +43,7 @@ namespace Lab6TranslateToEnglish
                 }
                 wordOut = wordOut + lowerCaseWord[0];
                 Console.WriteLine(wordOut + "ay");
+                Console.ReadLine();
             }
 
             
